@@ -31,8 +31,11 @@ Statistics:
 | ---------- | --------------- | -------------- | ---------------------- |-------------------------|
 | Foursquare | 11,326          | 182,968        | 1,385,223              | 47,164                  |
 | Gowalla    | 107,092         | 1,280,969      | 6,442,890              | 950,327                 |
-```
 
+- Foursquare_MUC: Foursquare contains check-in data ranging from January 2011 to July 2011. 
+
+- Gowalla_MUC: Gowalla includes check-in data between Feb. 2009 and Oct 2010.
+```
 ## How to run MUC model
 
 ```python
